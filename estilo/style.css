@@ -182,7 +182,12 @@ aside > h3{
 
 li{
     margin-bottom: 5px;
-    text-indent: -8px;
+    text-indent: 0px;
+}
+
+span.teste01{
+    display: block;
+    text-indent: 62px;
 }
 
 footer{
