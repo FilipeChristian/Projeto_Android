@@ -85,7 +85,7 @@ nav > a:hover{
 main{
     background-color: white;
     margin: auto;
-    margin-bottom: 30px;
+    margin-bottom: 60px;
     max-width: 1000px;
     min-width: 300px;  /*menos q isso para deixar de ser responsivo*/
     padding: 20px;
@@ -195,7 +195,7 @@ footer{
     color: white;
     padding: 5px;
     text-align: center;
-    margin-top: 60px;
+    /* margin-top: 60px; */
 }
 
 footer > p > a{
